@@ -53,8 +53,7 @@ export default function Home() {
             <div className="eyebrow">Plateforme de questionnaires · Site fictif</div>
             <h1>Créez, partagez et analysez vos questionnaires</h1>
             <p className="lead">
-              Quizzo vous aide à concevoir des quiz en quelques minutes et à suivre les résultats en temps réel.
-            </p>
+              yesmine is here             </p>
             <div className="hero-actions">
               <a className="btn btn-primary" href="#commencer">Créer un questionnaire</a>
               <a className="btn btn-ghost" href="#fonctionnement">Voir comment ça marche</a>
